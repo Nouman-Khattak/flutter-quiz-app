@@ -12,7 +12,7 @@ An interactive, beautifully designed Quiz Application built with **Flutter** and
 ## 🌐 Live Demo
 
 You can try the live web version of this app here:  
-👉 **[Live Quiz App on GitHub Pages](https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/)** *(Auto-deploys via GitHub Actions)*
+👉 **[Live Quiz App on GitHub Pages](https://nouman-khattak.github.io/flutter-quiz-app/)** *(Auto-deploys via GitHub Actions)*
 
 ---
 
@@ -72,8 +72,8 @@ To run this project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-   cd <YOUR_REPO_NAME>
+   git clone https://github.com/Nouman-Khattak/flutter-quiz-app.git
+   cd flutter-quiz-app
    ```
 
 2. **Get dependencies:**
@@ -111,7 +111,7 @@ flutter build apk --split-per-abi
 
 - **Nouman Farooq**
 - Email: [nouman.khattak00@gmail.com](mailto:nouman.khattak00@gmail.com)
-- GitHub: [@<YOUR_GITHUB_USERNAME>](https://github.com/<YOUR_GITHUB_USERNAME>)
+- GitHub: [@Nouman-Khattak](https://github.com/Nouman-Khattak)
 
 ---
 
